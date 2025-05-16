@@ -41,5 +41,5 @@ The dashboard is designed to help stakeholders and decision-makers quickly analy
 * Data modeling and ETL via Power Query
 
 # Screenshort / Demo
-show what the dashboard lokks like. - 
+show what the dashboard lokks like. - (https://github.com/arshkathrotiya/SALES-DASHBOARD/blob/main/Snepshort%20of%20Sales%20Dashboard.png)
 
