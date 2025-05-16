@@ -42,7 +42,7 @@ The dashboard is designed to help stakeholders and decision-makers quickly analy
 
 # Screenshort / Demo
 
-Dasboard look like - <a href="https://github.com/arshkathrotiya/SALES-DASHBOARD/blob/main/Madhav%20%20Ecommers%20Sales%20Dashboard.pbit"> </a>
-Example:- ![Dashboard Preview].
-(https://github.com/arshkathrotiya/SALES-DASHBOARD/blob/main/Madhav%20%20Ecommers%20Sales%20Dashboard.pbit)
+# Dasboard look like
+- <a href="https://github.com/arshkathrotiya/SALES-DASHBOARD/blob/main/Madhav%20%20Ecommers%20Sales%20Dashboard.pbit"> </a>
+-Dashboard Preview <a href="https://github.com/arshkathrotiya/SALES-DASHBOARD/blob/main/Madhav%20%20Ecommers%20Sales%20Dashboard.pbit">View Dashboard</a>
 
