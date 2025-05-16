@@ -42,6 +42,7 @@ The dashboard is designed to help stakeholders and decision-makers quickly analy
 
 # Screenshort / Demo
 
-Show what the dashboard lokks like. - !(https://github.com/arshkathrotiya/SALES-DASHBOARD/blob/main/Snepshort%20of%20Sales%20Dashboard.png)
-Example:- ![Dashboard Preview].(https://github.com/arshkathrotiya/SALES-DASHBOARD/blob/main/Madhav%20%20Ecommers%20Sales%20Dashboard.pbit)
+Show what the dashboard lokks like. - <a href="https://github.com/arshkathrotiya/SALES DASHBOARD/blob/main/Snepshort%20of%20Sales%20Dashboard.png"> </a>
+Example:- ![Dashboard Preview].
+(https://github.com/arshkathrotiya/SALES-DASHBOARD/blob/main/Madhav%20%20Ecommers%20Sales%20Dashboard.pbit)
 
