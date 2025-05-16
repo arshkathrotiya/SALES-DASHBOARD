@@ -44,5 +44,6 @@ The dashboard is designed to help stakeholders and decision-makers quickly analy
 -Dashboard Preview <a href="https://github.com/arshkathrotiya/SALES-DASHBOARD/blob/main/Madhav%20%20Ecommers%20Sales%20Dashboard.pbit">View Dashboard</a>
 
 # Screenshort / Demo
-- <a href="https://github.com/arshkathrotiya/SALES-DASHBOARD/blob/main/Madhav%20%20Ecommers%20Sales%20Dashboard.pbit"> </a>
+![Snepshort of Sales Dashboard](https://github.com/user-attachments/assets/225be832-1ebd-4874-acca-6add8fb63f12)
+
 
