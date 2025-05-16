@@ -40,9 +40,9 @@ The dashboard is designed to help stakeholders and decision-makers quickly analy
 * DAX (Data Analysis Expressions)
 * Data modeling and ETL via Power Query
 
-# Screenshort / Demo
-
 # Dasboard look like
-- <a href="https://github.com/arshkathrotiya/SALES-DASHBOARD/blob/main/Madhav%20%20Ecommers%20Sales%20Dashboard.pbit"> </a>
 -Dashboard Preview <a href="https://github.com/arshkathrotiya/SALES-DASHBOARD/blob/main/Madhav%20%20Ecommers%20Sales%20Dashboard.pbit">View Dashboard</a>
+
+# Screenshort / Demo
+- <a href="https://github.com/arshkathrotiya/SALES-DASHBOARD/blob/main/Madhav%20%20Ecommers%20Sales%20Dashboard.pbit"> </a>
 
